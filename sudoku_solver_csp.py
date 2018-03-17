@@ -143,7 +143,7 @@ def parse_puzzle(puzzle, digits = '123456789', nulls = 'O.'):
 				tmp = char
 			flatten_puzzle.append(tmp)
 	
-	print(flatten_puzzle)
+	#print(flatten_puzzle)
 
 	if len(flatten_puzzle)!=81:
 		raise ValueError('Input puzzle has %s positions specified! It must be 81'%len(flatten_puzzle))
@@ -278,6 +278,8 @@ if __name__ == '__main__':
 	.  9  . | .  .  . | 4  .  .
 	"""
 	
+	print("Input puzzle: (Arto Inkalas: Hardest Puzzle)\n")
+	display_grid(puzzle2)
+
+	print("\n Output Results:\n")
 	display_grid(solve_puzzle1(puzzle2))
-
-
