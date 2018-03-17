@@ -8,5 +8,6 @@ Sudoku Solver
 3. Optimised code to solve Arto Inkala's Hardest Sudoku Puzzle.  
 ..[You can refer more about the puzzle here](https://www.mirror.co.uk/news/weird-news/worlds-hardest-sudoku-puzzle-ever-942299)  
 
-- Screenshots
-..![SS1](https://rawgit.com/avidLearnerInProgress/sudoku-solver/master/screenshots/ss1.PNG)  
+#### Screenshots  
+
+## ![SS1](https://rawgit.com/avidLearnerInProgress/sudoku-solver/master/screenshots/ss1.PNG)  
