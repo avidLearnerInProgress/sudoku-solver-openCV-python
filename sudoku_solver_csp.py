@@ -58,8 +58,6 @@ def display_grid(grid, coords=False):
 	return display
 
 
-
-
 def print_func(param):
 	print(param)
 	print(len(param))
