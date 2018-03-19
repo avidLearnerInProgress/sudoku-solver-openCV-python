@@ -17,7 +17,7 @@ Sudoku Solver
 
 #### Screenshots  
 
-## ![SS1](https://rawgit.com/avidLearnerInProgress/sudoku-solver-openCV-python/master/screenshots/ss1.png)
+## ![SS1](https://rawgit.com/avidLearnerInProgress/sudoku-solver-openCV-python/master/screenshots/_ss1.png)
 ## ![SS2](https://rawgit.com/avidLearnerInProgress/sudoku-solver-openCV-python/master/screenshots/ss2.png)  
 ## ![SS3](https://rawgit.com/avidLearnerInProgress/sudoku-solver-openCV-python/master/screenshots/ss3.png)
 ## ![SS4](https://rawgit.com/avidLearnerInProgress/sudoku-solver-openCV-python/master/screenshots/ss4.png)
